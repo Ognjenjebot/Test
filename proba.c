@@ -1,5 +1,9 @@
 #include <iostream>
 
+int rez(int a, int b){
+	return a+b;
+}
+
 int main()
 {
 	int i;
@@ -12,5 +16,6 @@ int main()
 
 	// tenja kuca kod ovde
 	print("asdasdadasdasd");
+	int p =rez(1,2);
 	// do ovde
 }
