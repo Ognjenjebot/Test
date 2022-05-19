@@ -11,19 +11,7 @@ int main()
 	// do ovde
 
 	// tenja kuca kod ovde
-	for (i = 0; i < 10; i++)
-	{
-		printf("dsadasdsada")
-			printf("T123421321");
-		printf("tenja je isto peder");
-		printf("tenja je isto peder");
-		printf("tenja je isto peder");
-		printf("tenja je isto peder");
-		printf("tenja je isto peder");
-		printf("tenja je isto peder");
-		printf("Ogi je isto peder");
-		printf("Ogi je isto peder");
-		printf("Ogi je isto peder");
-	}
+	print("asdasdadasdasd");
+
 	// do ovde
 }
