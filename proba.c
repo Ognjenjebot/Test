@@ -13,6 +13,10 @@ int main()
 	print("Peti red test");
 
 	print("sesti red test");
+<<<<<<< HEAD
 	print("sesti red test");
+=======
+	printf("sedmi red test");
+>>>>>>> main
 	return x;
 }
