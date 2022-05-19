@@ -9,5 +9,6 @@ int main()
 	printf("Cetvrti red");
 	printf("Cetvrti red");
 	print("Peti red test");
+	print("Peti red test");
 	return x;
 }
