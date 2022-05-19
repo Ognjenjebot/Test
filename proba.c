@@ -13,5 +13,6 @@ int main()
 	print("Peti red test");
 
 	print("sesti red test");
+	print("sesti red test");
 	return x;
 }
