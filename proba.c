@@ -20,7 +20,8 @@ int nesto(int s, int f, int h)
 
 		// tenja kuca kod ovde
 		print("asdasdadasdasd");
-		int x = nesto(1, 2, 3) int p = rez(1, 2);
+		int x = nesto(1, 2, 3);
+		int p = rez(1, 2);
 		// do ovde
 		printf("nesto");
 	}
