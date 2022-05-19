@@ -1,17 +1,19 @@
-#include<iostream>
+#include <iostream>
 
-
-int main(){
+int main()
+{
 	int i;
-	//ja cu ovde kod kucat
-	for(i = 0; i < 10; i++){
+	// ja cu ovde kod kucat
+	for (i = 0; i < 10; i++)
+	{
 		printf("tenja pedercina");
 	}
-	//do ovde
-	
-	//tenja kuca kod ovde
-	for(int i=0;i<10;i++){
-		printf("Ogi je pedercina!");
+	// do ovde
+
+	// tenja kuca kod ovde
+	for (i = 0; i < 10; i++)
+	{
+		printf("Tenja je pedercina je pedercina!");
 	}
-	//do ovde
+	// do ovde
 }
