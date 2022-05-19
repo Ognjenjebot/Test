@@ -7,6 +7,6 @@ int main()
 	printf("Peti red");
 	printf("Cetvrti red");
 	printf("Cetvrti red");
-
+	print("Peti red test");
 	return x;
 }
