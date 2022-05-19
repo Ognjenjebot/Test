@@ -14,6 +14,7 @@ int main()
 	for (i = 0; i < 10; i++)
 	{
 		printf("Tenja je pedercina je pedercina!");
+		printf("Ogi je isto peder");
 	}
 	// do ovde
 }
