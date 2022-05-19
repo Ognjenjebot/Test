@@ -4,6 +4,6 @@ int main()
 	printf("Prvi red");
 	printf("Drugi red");
 	printf("Treci red");
-	printf("Cetvrti red");
+	printf("Peti red");
 	return x;
 }
