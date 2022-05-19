@@ -1,6 +1,7 @@
 
 int main()
 {
+	printf("Prvi red test");
 	printf("Prvi red");
 	printf("Drugi red");
 	printf("Treci red");
