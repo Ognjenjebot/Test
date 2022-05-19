@@ -28,4 +28,34 @@ int main()
 	int p =rez(1,2);
 
 	// do ovde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	printf("ogi je gej");
 }
