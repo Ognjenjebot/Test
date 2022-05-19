@@ -1,5 +1,10 @@
 #include <iostream>
 
+int nesto(int s, int f, int h)
+{
+	return s * f * h;
+}
+
 int main()
 {
 	int i;
@@ -12,6 +17,6 @@ int main()
 
 	// tenja kuca kod ovde
 	print("asdasdadasdasd");
-
+	int x = nesto(1, 2, 3)
 	// do ovde
 }
